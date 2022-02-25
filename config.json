@@ -1,0 +1,9 @@
+{
+	"ip":"PureMC.aternos.me",
+	"port": "27759",
+	"name": "bSCGwJAjJ",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
